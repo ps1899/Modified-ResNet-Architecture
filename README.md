@@ -6,7 +6,7 @@ This project has been developed by:
 
 # Goal
 In this mini-project, we are tasked with coming up with a modified residual network (ResNet) architecture with the highest test accuracy on the CIFAR-10 
-image classification dataset, under the constraint that your model has nomore than 5 million parameters.
+image classification dataset, under the constraint that model should have no more than 5 million parameters.
 
 ## Overview
 
